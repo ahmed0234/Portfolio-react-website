@@ -1,0 +1,112 @@
+.whatido{
+    background-color: #343a40;
+    color: white;
+    padding-top:4rem ;
+    padding-bottom: 2rem;
+}
+.whatido__section{
+    
+}
+.whatido__main-title{
+        text-align: center;
+    
+}
+.whatido__main-title h2{
+    text-align: center;
+    font-size: var(---3xl);
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+
+.whatido__wrapper{
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-gap: 1.5rem;
+}
+
+.whatido__content{
+    display: flex;
+    gap: 1rem;
+}
+
+.whatido__subcontent-1 i{
+            color: #20c997;
+            font-size: 1.8rem;
+            background-color: #212529;
+            padding: 1rem;
+            border-radius: 5px;
+}
+.whatido__subcontent-2 h3{
+            font-weight: 500;
+            font-size: var(--xl);
+}
+.whatido__subcontent-2 p{
+            font-weight: 400;
+            margin: 1rem 0;
+            line-height: 1.5rem;
+            color: #9a9da0;
+}
+
+
+
+
+.container{
+    /* border: 1px solid red; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:475px){
+   
+}
+
+
+ 
+@media(min-width:640px){
+            
+}
+
+
+
+
+@media(min-width:768px){
+    .whatido__wrapper{
+        margin: 2rem 0;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 1.5rem;
+    }
+    
+}
+
+
+
+
+@media(min-width:1024px){
+    
+}
+
+
+
+@media(min-width:1280px){
+   
+}
+
+
+
+
+@media(min-width:1536px){
+    
+}
