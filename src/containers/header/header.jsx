@@ -3,7 +3,7 @@ import './header.css'
 import Navbar from '../../components/navbar/navbar'
 import Header__content from '../../components/header-content/header-content'
 
-import '../../assets/blog02.png'
+
 
 const Header = () => {
   return (
